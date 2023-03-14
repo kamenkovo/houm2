@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}   
+.section1{
+    min-height: 1440px;
+    min-width: 799px;
+    background: #284854;
+    font-size: 1.5rem;
+    border-top-width: -1px;
+}
+
+.header{
+    min-height: 50px;
+    width: 80%;
+    background: #60C1BD;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+.block{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.indevets{
+    margin-right: 100px;
+}
+
+.veterinarians{
+    margin-right: 100px;
+}
+
+.hospitals{
+    margin-right: 100px;
+}
+
+.whyindevets{
+    margin-right: 100px;
+}
+
+.login{
+    margin-right: 100px;
+}
